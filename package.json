@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-micro-edge-runner-edge-dm3",
+  "version": "1.0.0",
+  "description": "Logging and observability platform",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "micro-edge-runner-edge-dm3"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-micro-edge-runner-edge-dm3.git"
+  }
+}
